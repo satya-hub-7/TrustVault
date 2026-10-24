@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="40" viewBox="0 0 184 40" fill="none">
+  <rect x="1" y="4" width="32" height="32" rx="10" fill="#F4B942"/>
+  <path d="M17 10.5 26 14v6.2c0 5.7-3.7 9-9 11.3-5.3-2.3-9-5.6-9-11.3V14l9-3.5Z" stroke="#321B3A" stroke-width="2"/>
+  <path d="m13.2 20.5 2.5 2.5 5-5.2" stroke="#321B3A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="42" y="27" fill="#321B3A" font-family="DM Sans, sans-serif" font-size="22" font-weight="700" letter-spacing="-1.2">trustvault</text>
+  <circle cx="153" cy="25" r="2" fill="#B78019"/>
+</svg>
